@@ -1,1 +1,3 @@
-# Script-B-sico---Jogo-Ataque-Animal
+# Script-Basico Jogo-Ataque-Animal
+
+Scripts na Branch Main
